@@ -12,3 +12,4 @@ print("foo")
 a = 4 + 5
 ```
 Vec teksta.
+Se vec teksta.
