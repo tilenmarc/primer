@@ -7,6 +7,7 @@ To je primer _repozitorija_, ki ga uporablajmo na predavanjih UVP.
 - Druga tocka
 - in tako naprej
 
-```
-python test.py
+```python
+print("foo")
+a = 4 + 5
 ```
