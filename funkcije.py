@@ -1,2 +1,2 @@
-def izpisi_zvezdice():
-    print(10 * "*")
+def izpisi_zvezdice(n):
+    print(n * "*")
