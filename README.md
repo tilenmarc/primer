@@ -11,3 +11,4 @@ To je primer _repozitorija_, ki ga uporablajmo na predavanjih UVP.
 print("foo")
 a = 4 + 5
 ```
+Vec teksta.
